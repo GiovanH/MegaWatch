@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "GiovanH",
+    "longName": "Megaman.EXE watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "MegaWatch",
+    "uuid": "1c23bae1-4ffb-4720-af8f-96df187504a3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
